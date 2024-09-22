@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079374371576",
+    "project_id": "nust-bot",
+    "storage_bucket": "nust-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079374371576:android:fdc286ba3f50c5d6b5390d",
+        "android_client_info": {
+          "package_name": "com.example.nust_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA150C_xujUTKJI4e8YLe88Z3_YwRkZKdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
